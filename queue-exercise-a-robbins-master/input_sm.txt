@@ -1,0 +1,8 @@
+push hello
+push world
+isEmpty
+pop
+peek
+pop
+isEmpty
+pop

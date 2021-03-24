@@ -1,0 +1,6 @@
+The queue is not empty
+popped: hello
+peek: world
+popped: world
+The queue is empty
+popped: null
